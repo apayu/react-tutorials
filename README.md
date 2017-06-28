@@ -10,3 +10,9 @@ https://www.youtube.com/watch?v=fd2Cayhez58
 <br />
 3.learning Multiple Components<br />
 https://www.youtube.com/watch?v=vu_rIMPROoQ
+<br />
+<br />
+4.State vs Props & Application Data<br />
+https://www.youtube.com/watch?v=qh3dYM6Keuw
+<br />
+<br />
