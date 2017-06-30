@@ -10,22 +10,21 @@ export default class Layout extends React.Component{
   }
   render(){
     const { history } = this.props;
-    console.log(history.isActive("archives"));
+    const containerStyle = {
+      marginTop: "60px"
+    };
+
     return(
       <div>
-        <Nav />
-        <div>123</div>
-        <div>123</div>
-        <div>123</div>
-        <h1>welcome pa!</h1>
-        {this.props.children}
-        <Link to="archives" activeClassName="test" class="btn btn-danger">archives</Link>
-        <Link to="settings"><button class="btn btn-success">settings</button></Link>
-        <button onClick={this.navigate.bind(this)}>featured</button>
-        <div>123</div>
-        <div>123</div>
-        <div>123</div>
-        <Footer />
+        <Nav location = {location} />
+        <div class="container" style={containerStyle}>
+          <div class="row">
+            <div class="col-lg-12">
+              <h1>welcome apa</h1>
+              {this.props.children}
+            </div>
+          </div>
+        </div>
       </div>
     )
   }
