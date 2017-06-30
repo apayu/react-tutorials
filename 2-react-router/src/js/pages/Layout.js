@@ -9,6 +9,8 @@ export default class Layout extends React.Component{
     this.props.history.pushState(null, "/");
   }
   render(){
+    const { history } = this.props;
+    console.log(history.isActive("archives"));
     return(
       <div>
         <Nav />
@@ -17,7 +19,7 @@ export default class Layout extends React.Component{
         <div>123</div>
         <h1>welcome pa!</h1>
         {this.props.children}
-        <Link to="archives" class="btn btn-danger">archives</Link>
+        <Link to="archives" activeClassName="test" class="btn btn-danger">archives</Link>
         <Link to="settings"><button class="btn btn-success">settings</button></Link>
         <button onClick={this.navigate.bind(this)}>featured</button>
         <div>123</div>
