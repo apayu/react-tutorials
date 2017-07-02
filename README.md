@@ -20,3 +20,19 @@ https://www.youtube.com/watch?v=qh3dYM6Keuw
 https://www.youtube.com/watch?v=_D1JGNidMr4
 <br />
 <br />
+6.React Router & Intro to Single Page Apps with React JS<br />
+https://www.youtube.com/watch?v=1iAG6h9ff5s&t=605s
+<br />
+<br />
+7.REACT JS TUTORIAL #7 - React Router Params & Queries<br />
+https://www.youtube.com/watch?v=ZBxMljq9GSE
+<br />
+<br />
+8.REACT JS TUTORIAL #8 - React Inline Styles & Component Arrays<br />
+https://www.youtube.com/watch?v=XVdwq8W2ZsM
+<br />
+<br />
+9.REACT FLUX TUTORIAL #9 - React Flux Introduction & Flux Stores<br />
+https://www.youtube.com/watch?v=PvjNglsyOHs
+<br />
+<br />
