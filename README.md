@@ -40,3 +40,11 @@ https://www.youtube.com/watch?v=PvjNglsyOHs
 https://www.youtube.com/watch?v=bvEC6i7CUyE
 <br />
 <br />
+11.REACT FLUX TUTORIAL #11 - The Flux Dispatcher<br />
+https://www.youtube.com/watch?v=MZfCVq5iCBw
+<br />
+<br />
+12.REACT FLUX TUTORIAL #12 - Flux Actions<br />
+https://www.youtube.com/watch?v=0yW7C22ooos
+<br />
+<br />
