@@ -48,3 +48,11 @@ https://www.youtube.com/watch?v=MZfCVq5iCBw
 https://www.youtube.com/watch?v=0yW7C22ooos
 <br />
 <br />
+13.REACT FLUX TUTORIAL #13 - Asynchronous & AJAX Flux Actions<br />
+https://www.youtube.com/watch?v=CuYd9uDB0vg
+<br />
+<br />
+14.REACT FLUX TUTORIAL #14 - React & Flux Memory Leaks<br />
+https://www.youtube.com/watch?v=Fgd2ivSnXXo
+<br />
+<br />
